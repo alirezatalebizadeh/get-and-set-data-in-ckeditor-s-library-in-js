@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    overflow: hidden;
+    background-color: rgb(32, 26, 38);
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    font-weight: bold;
+    color: #fff;
+    border: none;
+    outline: none;
+    background-color: rgb(41, 119, 50);
+    cursor: pointer;
+    margin: 5px 0;
+    border-radius: 15px;
+}
